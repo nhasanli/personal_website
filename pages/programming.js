@@ -15,8 +15,8 @@ export default function Index() {
                     <br></br>
                     <p><strong>My languages</strong></p>
                     <ul>
-                        <li><a href="https://www.typescriptlang.org/docs/">Typescript</a></li>
-                        <li><a href="https://golang.org/doc/">Golang</a></li>
+                        <li><a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">Typescript</a></li>
+                        <li><a href="https://golang.org/doc/" target="_blank" rel="noreferrer">Golang</a></li>
                     </ul>
 
                 </Container>
