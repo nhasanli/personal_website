@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from "next/head";
 
 export default function Meta() {
   return (
@@ -31,11 +31,8 @@ export default function Meta() {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta
-        name="description"
-        content={`Nijat's personal website.`}
-      />
-        <title>Nijat Hasanli</title>
+      <meta name="description" content={`Nijat's personal website.`} />
+      <title>Nijat Hasanli</title>
     </Head>
-  )
+  );
 }
