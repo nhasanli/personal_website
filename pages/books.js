@@ -16,8 +16,8 @@ export default function Index() {
                     <br></br>
                     <p><strong>My favorite books</strong></p>
                     <ul>
-                        <li>Team of Rivals</li>
-                        <li>Snowcrash</li>
+                        <li><Link href="https://amz.run/4uE1">Team of Rivals, Doris Kearns Goodwin </Link></li>
+                        <li><Link href="https://amz.run/4uE2">Snow Crash, Neal Stephenson</Link></li>
                     </ul>
 
                 </Container>
