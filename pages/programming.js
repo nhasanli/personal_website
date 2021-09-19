@@ -7,9 +7,6 @@ export default function Index() {
     return (
         <>
             <Layout>
-                <Head>
-                    <title>nijat</title>
-                </Head>
                 <Container>
                     <Header />
                     <br></br>

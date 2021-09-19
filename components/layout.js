@@ -1,6 +1,6 @@
-
-import Footer from './footer'
-import Meta from './meta'
+import Footer from "./footer";
+import Meta from "./meta";
+import Head from "next/head";
 
 export default function Layout({ preview, children }) {
   return (
@@ -11,5 +11,5 @@ export default function Layout({ preview, children }) {
       </div>
       {/*<Footer />*/}
     </>
-  )
+  );
 }

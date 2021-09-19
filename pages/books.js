@@ -7,16 +7,13 @@ export default function Index() {
     return (
         <>
             <Layout>
-                <Head>
-                    <title>nijat</title>
-                </Head>
                 <Container>
                     <Header />
                     <br></br>
                     <p><strong>My favorite books</strong></p>
                     <ul>
-                        <li><a href="https://amz.run/4uE1" target="_blank" rel="noreferrer">Team of Rivals, Doris Kearns Goodwin </a></li>
-                        <li><a href="https://amz.run/4uE2" target="_blank" rel="noreferrer">Snow Crash, Neal Stephenson</a></li>
+                        <li><a href="https://bit.ly/3hLjFCo" target="_blank" rel="noreferrer">Team of Rivals, Doris Kearns Goodwin </a></li>
+                        <li><a href="https://bit.ly/2XydTxq" target="_blank" rel="noreferrer">Snow Crash, Neal Stephenson</a></li>
                     </ul>
 
                 </Container>

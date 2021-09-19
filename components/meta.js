@@ -35,6 +35,7 @@ export default function Meta() {
         name="description"
         content={`Nijat's personal website.`}
       />
+        <title>Nijat Hasanli</title>
     </Head>
   )
 }
