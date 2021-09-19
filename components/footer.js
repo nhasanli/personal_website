@@ -1,7 +1,6 @@
-import Container from './container'
+import Container from "./container";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; // Import the FontAwesomeIcon component
 import { faGithub } from "@fortawesome/free-brands-svg-icons/faGithub";
-
 
 export default function Footer() {
   return (
@@ -19,5 +18,5 @@ export default function Footer() {
         </div>
       </Container>
     </footer>
-  )
+  );
 }
