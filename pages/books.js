@@ -1,5 +1,4 @@
 import Container from '../components/container'
-import Link from "next/link"
 import Layout from '../components/layout'
 import Head from 'next/head'
 import Header from "../components/header"
@@ -16,8 +15,8 @@ export default function Index() {
                     <br></br>
                     <p><strong>My favorite books</strong></p>
                     <ul>
-                        <li><Link href="https://amz.run/4uE1">Team of Rivals, Doris Kearns Goodwin </Link></li>
-                        <li><Link href="https://amz.run/4uE2">Snow Crash, Neal Stephenson</Link></li>
+                        <li><a href="https://amz.run/4uE1" target="_blank">Team of Rivals, Doris Kearns Goodwin </a></li>
+                        <li><a href="https://amz.run/4uE2" target="_blank">Snow Crash, Neal Stephenson</a></li>
                     </ul>
 
                 </Container>
