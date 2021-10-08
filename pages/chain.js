@@ -10,37 +10,47 @@ export default function Index() {
           <Header />
           <br />
           <p>
-            <strong>My favorite books.</strong>
+            <strong>How I see the future of networks.</strong>
           </p>
           <ul>
             <li>
               <a
                 className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/3hLjFCo"
+                href="https://bit.ly/3AsRuia"
                 target="_blank"
                 rel="noreferrer"
               >
-                Team of Rivals, Doris Kearns Goodwin.
+                Blockchain and Money
               </a>
             </li>
             <li>
               <a
                 className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/2XydTxq"
+                href="https://bit.ly/3FxlUDC"
                 target="_blank"
                 rel="noreferrer"
               >
-                Snow Crash, Neal Stephenson.
+                Cryptographic Truth
               </a>
             </li>
             <li>
               <a
                 className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/2YtMfBB"
+                href="https://proto.school/"
                 target="_blank"
                 rel="noreferrer"
               >
-                Shoe Dog, Phil Knight.
+                Decentralised Networks
+              </a>
+            </li>
+            <li>
+              <a
+                className="hover:text-success duration-200 transition-colors"
+                href="https://bit.ly/3FuZAdN"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Ethereum Name Service
               </a>
             </li>
           </ul>

@@ -1,6 +1,5 @@
 import Container from "../components/container";
 import Layout from "../components/layout";
-import Head from "next/head";
 import Header from "../components/header";
 
 export default function Index() {
@@ -9,30 +8,44 @@ export default function Index() {
       <Layout>
         <Container>
           <Header />
-          <br></br>
-          <p>
-            <strong>My languages</strong>
-          </p>
-          <ul>
-            <li>
-              <a
-                href="https://www.typescriptlang.org/docs/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Typescript
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://golang.org/doc/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Golang
-              </a>
-            </li>
-          </ul>
+          <br />
+          <div>
+            <p>
+              <strong>Languages I like.</strong>
+            </p>
+            <ul>
+              <li>
+                <a
+                  className="hover:text-success duration-200 transition-colors"
+                  href="https://www.typescriptlang.org/docs/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Typescript
+                </a>
+              </li>
+              <li>
+                <a
+                  className="hover:text-success duration-200 transition-colors"
+                  href="https://golang.org/doc/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Golang
+                </a>
+              </li>
+              <li>
+                <a
+                  className="hover:text-success duration-200 transition-colors"
+                  href="https://clojure.org/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Clojure
+                </a>
+              </li>
+            </ul>
+          </div>
         </Container>
       </Layout>
     </>

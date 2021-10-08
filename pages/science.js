@@ -10,37 +10,47 @@ export default function Index() {
           <Header />
           <br />
           <p>
-            <strong>My favorite books.</strong>
+            <strong>Science that interests me.</strong>
           </p>
           <ul>
             <li>
               <a
                 className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/3hLjFCo"
+                href="https://bit.ly/3oSbIj8"
                 target="_blank"
                 rel="noreferrer"
               >
-                Team of Rivals, Doris Kearns Goodwin.
+                Nuclear Power
               </a>
             </li>
             <li>
               <a
                 className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/2XydTxq"
+                href="https://go.nature.com/3myF4jT"
                 target="_blank"
                 rel="noreferrer"
               >
-                Snow Crash, Neal Stephenson.
+                Spintronics
               </a>
             </li>
             <li>
               <a
                 className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/2YtMfBB"
+                href="https://www.longevity.vc/"
                 target="_blank"
                 rel="noreferrer"
               >
-                Shoe Dog, Phil Knight.
+                Longevity
+              </a>
+            </li>
+            <li>
+              <a
+                className="hover:text-success duration-200 transition-colors"
+                href="https://www.nasa.gov/oem/inspacemanufacturing/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Space
               </a>
             </li>
           </ul>

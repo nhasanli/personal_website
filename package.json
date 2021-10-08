@@ -9,7 +9,6 @@
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
-    "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "^0.1.15",
     "classnames": "2.2.6",
     "date-fns": "2.16.1",
@@ -25,6 +24,7 @@
     "remark-html": "13.0.1"
   },
   "devDependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "autoprefixer": "^10.2.1",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
