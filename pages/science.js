@@ -10,7 +10,7 @@ export default function Index() {
           <Header />
           <br />
           <p>
-            <strong>Science that interests me.</strong>
+            <strong>The future.</strong>
           </p>
           <ul>
             <li>

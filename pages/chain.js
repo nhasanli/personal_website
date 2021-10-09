@@ -10,7 +10,7 @@ export default function Index() {
           <Header />
           <br />
           <p>
-            <strong>How I see the future of networks.</strong>
+            <strong>Decentralisation.</strong>
           </p>
           <ul>
             <li>

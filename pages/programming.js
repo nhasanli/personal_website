@@ -11,7 +11,7 @@ export default function Index() {
           <br />
           <div>
             <p>
-              <strong>Languages I like.</strong>
+              <strong>My languages.</strong>
             </p>
             <ul>
               <li>
