@@ -37,11 +37,11 @@ export default function Index() {
               <li>
                 <a
                   className="hover:text-success duration-200 transition-colors"
-                  href="https://clojure.org/"
+                  href="https://www.python.org/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Clojure
+                  Python
                 </a>
               </li>
             </ul>
