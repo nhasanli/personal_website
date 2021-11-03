@@ -20,7 +20,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Team of Rivals, Doris Kearns Goodwin.
+                Team of Rivals, Doris Kearns Goodwin
               </a>
             </li>
             <li>
@@ -30,7 +30,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Snow Crash, Neal Stephenson.
+                Snow Crash, Neal Stephenson
               </a>
             </li>
             <li>
@@ -40,7 +40,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Dune, Frank Herbert.
+                Dune, Frank Herbert
               </a>
             </li>
             <li>
@@ -50,7 +50,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Shoe Dog, Phil Knight.
+                Shoe Dog, Phil Knight
               </a>
             </li>
             <li>
@@ -60,7 +60,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Games People Play, Eric Berne.{" "}
+                Games People Play, Eric Berne
               </a>
             </li>
             <li>
@@ -70,7 +70,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                The Virtue of Selfishness, Ayn Rand.
+                The Virtue of Selfishness, Ayn Rand
               </a>
             </li>
             <li>
@@ -80,7 +80,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                The Inner Game of Tennis, Timothy Gallwey.
+                The Inner Game of Tennis, Timothy Gallwey
               </a>
             </li>
             <li>
@@ -90,7 +90,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                The Untethered Soul, Michael Singer.
+                The Untethered Soul, Michael Singer
               </a>
             </li>
             <li>
@@ -100,7 +100,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                How to Solve it, George Polya.
+                How to Solve it, George Polya
               </a>
             </li>
             <li>
@@ -110,7 +110,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Essays, Ralph Waldo Emerson.
+                Essays, Ralph Waldo Emerson
               </a>
             </li>
             <li>
@@ -120,7 +120,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                The Timeless Way of Building, Christopher W. Alexander.
+                The Timeless Way of Building, Christopher W. Alexander
               </a>
             </li>
             <li>
@@ -130,7 +130,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                The Life of Greece, Will Durant.
+                The Life of Greece, Will Durant
               </a>
             </li>
             <li>
@@ -140,7 +140,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                High Output Management, Andrew Grove.
+                High Output Management, Andrew Grove
               </a>
             </li>
             <li>
@@ -150,7 +150,7 @@ export default function Index() {
                 target="_blank"
                 rel="noreferrer"
               >
-                The Guns of August, Barbara Tuchman.
+                The Guns of August, Barbara Tuchman
               </a>
             </li>
           </ul>
