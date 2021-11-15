@@ -8,7 +8,7 @@ export default function Index() {
     <>
       <Layout>
         <Head>
-          <title>Nijat</title>
+          <title>Nijat Hasanli</title>
         </Head>
         <Container>
           <Header />
