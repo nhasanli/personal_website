@@ -11,7 +11,7 @@ export default function Index() {
           <br />
           <div>
             <p className="mb-1">
-              <strong>My languages.</strong>
+              <strong>My thoughts.</strong>
             </p>
             <ul>
               <li>
@@ -21,28 +21,9 @@ export default function Index() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Typescript
+                  Journalling
                 </a>
               </li>
-              <li>
-                <a
-                  className="hover:text-success duration-200 transition-colors"
-                  href="https://golang.org/doc/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Golang
-                </a>
-              </li>
-              <li>
-                <a
-                  className="hover:text-success duration-200 transition-colors"
-                  href="https://www.python.org/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Python
-                </a>
               </li>
             </ul>
           </div>
