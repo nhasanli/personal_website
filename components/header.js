@@ -30,30 +30,17 @@ export default function Header() {
           rel="noreferrer"
         >
           <FontAwesomeIcon icon={faTwitter} />
-        </a>{" "}
-        <a
-          className="hover:text-success duration-200 transition-colors"
-          href="https://github.com/nhasanli"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <FontAwesomeIcon icon={faGithub} />
         </a>
       </div>
       <p className="mt-4 mb-7">I want to build awesome products.</p>
+
+      <p className="mt-4 mb-7">Head of Product at <a>Lindus Health</a>.</p>
       <ul>
         <li className="underline hover:text-success duration-200 transition-colors">
           <Link href="/books">Books</Link>
         </li>
         <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/programming">Programming</Link>
-        </li>
-        <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/science">Science</Link>
-        </li>
-        <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/chain">On-Chain</Link>
-        </li>
+          <Link href="/writing">Writing</Link>
       </ul>
     </>
   );
