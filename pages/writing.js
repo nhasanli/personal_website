@@ -24,7 +24,6 @@ export default function Index() {
                   Journalling
                 </a>
               </li>
-              </li>
             </ul>
           </div>
         </Container>

@@ -1,8 +1,5 @@
 {
-  "extends": [
-    "plugin:prettier/recommended",
-    "next/core-web-vitals"
-  ],
+  "extends": ["plugin:prettier/recommended", "next/core-web-vitals"],
   "parserOptions": {
     "ecmaVersion": 12
   }

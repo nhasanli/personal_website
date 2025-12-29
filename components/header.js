@@ -1,17 +1,13 @@
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faGithub,
-  faLinkedin,
-  faTwitter,
-} from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin, faTwitter } from "@fortawesome/free-brands-svg-icons";
 
 export default function Header() {
   return (
     <>
       <p className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-2 mt-8">
-        <Link href="/">
-          <a className="hover:underline">Nijat Hasanli</a>
+        <Link href="/" className="hover:underline">
+          Nijat Hasanli
         </Link>
       </p>
       <div>
@@ -33,14 +29,20 @@ export default function Header() {
         </a>
       </div>
       <p className="mt-4 mb-7">I want to build awesome products.</p>
-
-      <p className="mt-4 mb-7">Head of Product at <a>Lindus Health</a>.</p>
+      <p className="mt-4 mb-7">
+        Head of Product at{" "}
+        <a href="https://www.lindushealth.com/" target="_blank" rel="noreferrer">
+          Lindus Health
+        </a>
+        .
+      </p>
       <ul>
         <li className="underline hover:text-success duration-200 transition-colors">
           <Link href="/books">Books</Link>
         </li>
         <li className="underline hover:text-success duration-200 transition-colors">
           <Link href="/writing">Writing</Link>
+        </li>
       </ul>
     </>
   );
