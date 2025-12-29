@@ -17,7 +17,7 @@ export default function Header() {
       <div>
         <a
           className="hover:text-success duration-200 transition-colors"
-          href="https://www.linkedin.com/in/nijat-h-46b21061/"
+          href="https://www.linkedin.com/in/nijat-hasanli-46b21061/"
           target="_blank"
           rel="noreferrer"
         >
