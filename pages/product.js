@@ -11,10 +11,10 @@ export default function Index() {
           <br />
           <div>
             <p className="mb-1">
-              <strong>My thoughts</strong>
+              <strong>Things I love</strong>
             </p>
             <ul>
-              <li>Going Nuclear (Soon)</li>
+              <li>Claude Code (Soon)</li>
             </ul>
           </div>
         </Container>

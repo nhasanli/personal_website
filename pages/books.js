@@ -10,7 +10,7 @@ export default function Index() {
           <Header />
           <br />
           <p className="mb-1">
-            <strong>Unordered list of my favorite books.</strong>
+            <strong>Unordered list of my favorite books</strong>
           </p>
           <ul>
             <li>

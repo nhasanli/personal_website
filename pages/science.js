@@ -10,7 +10,7 @@ export default function Index() {
           <Header />
           <br />
           <p className="mb-1">
-            <strong>The future.</strong>
+            <strong>The future</strong>
           </p>
           <ul>
             <li>

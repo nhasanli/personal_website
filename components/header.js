@@ -1,6 +1,10 @@
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin, faTwitter } from "@fortawesome/free-brands-svg-icons";
+import {
+  faLinkedin,
+  faTwitter,
+  faGithub,
+} from "@fortawesome/free-brands-svg-icons";
 
 export default function Header() {
   return (
@@ -27,11 +31,23 @@ export default function Header() {
         >
           <FontAwesomeIcon icon={faTwitter} />
         </a>
+        <a
+          className="hover:text-success duration-200 transition-colors"
+          href="https://github.com/nhasanli"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FontAwesomeIcon icon={faGithub} />
+        </a>
       </div>
-      <p className="mt-4 mb-7">I want to build awesome products.</p>
       <p className="mt-4 mb-7">
-        Head of Product at{" "}
-        <a href="https://www.lindushealth.com/" target="_blank" rel="noreferrer">
+        I want to build awesome products. Head of Product at{" "}
+        <a
+          href="https://www.lindushealth.com/"
+          target="_blank"
+          className="hover:text-success duration-200 transition-colors"
+          rel="noreferrer"
+        >
           Lindus Health
         </a>
         .
@@ -41,7 +57,13 @@ export default function Header() {
           <Link href="/books">Books</Link>
         </li>
         <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/writing">Writing</Link>
+          <Link href="/product">Products</Link>
+        </li>
+        <li className="underline hover:text-success duration-200 transition-colors">
+          <Link href="/science">Science</Link>
+        </li>
+        <li className="underline hover:text-success duration-200 transition-colors">
+          <Link href="/writing">Writing (Coming Soon) </Link>
         </li>
       </ul>
     </>
