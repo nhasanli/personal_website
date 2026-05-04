@@ -10,7 +10,7 @@ export default function Index() {
           <Header />
           <br />
           <p className="mb-1">
-            <strong>Unordered list of my favorite books</strong>
+            <strong>Books I like</strong>
           </p>
           <ul>
             <li>
@@ -86,16 +86,6 @@ export default function Index() {
             <li>
               <a
                 className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/3wjbm71"
-                target="_blank"
-                rel="noreferrer"
-              >
-                The Untethered Soul, Michael Singer
-              </a>
-            </li>
-            <li>
-              <a
-                className="hover:text-success duration-200 transition-colors"
                 href="https://bit.ly/3wdIihh"
                 target="_blank"
                 rel="noreferrer"
@@ -121,16 +111,6 @@ export default function Index() {
                 rel="noreferrer"
               >
                 The Timeless Way of Building, Christopher W. Alexander
-              </a>
-            </li>
-            <li>
-              <a
-                className="hover:text-success duration-200 transition-colors"
-                href="https://bit.ly/3CJg1S2"
-                target="_blank"
-                rel="noreferrer"
-              >
-                The Life of Greece, Will Durant
               </a>
             </li>
             <li>

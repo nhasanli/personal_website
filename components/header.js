@@ -54,16 +54,7 @@ export default function Header() {
       </p>
       <ul>
         <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/books">Books</Link>
-        </li>
-        <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/product">Products</Link>
-        </li>
-        <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/science">Science</Link>
-        </li>
-        <li className="underline hover:text-success duration-200 transition-colors">
-          <Link href="/writing">Writing (Coming Soon) </Link>
+          <Link href="/books">Books I like</Link>
         </li>
       </ul>
     </>
